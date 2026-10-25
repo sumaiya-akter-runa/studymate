@@ -12,8 +12,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)
 
-[**Download APK**](https://github.com/sumaiya-akter-runa/StudyMate_AI/releases/latest) · [Backend repository](https://github.com/sumaiya-akter-runa/studymate-backend)
-
+[**Download APK**](https://github.com/sumaiya-akter-runa/StudyMate_AI/releases/latest) · 
 </div>
 
 ---
